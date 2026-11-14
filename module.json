@@ -2,7 +2,7 @@
   "name": "module-maintenance-work-orders-filament",
   "display_name": "Maintenance Work Orders Filament",
   "description": "Filament 5 adapter for work orders.",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "category": "presentation",
   "provider": "Liberu\\Modules\\Maintenance\\WorkOrders\\Filament\\WorkOrdersFilamentServiceProvider",
   "requires": {
